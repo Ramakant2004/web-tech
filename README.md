@@ -24,7 +24,7 @@ Click the green "Code" button.
 Select "Download ZIP".
 Extract the downloaded ZIP file to your desired location.
 Option 2: Clone the repository using Git:
-git clone https://github.com/Deeksha2804/Webtech-CivicConnect-project.git
+git clone https://github.com/Ramakant2004/web-tech
 Install dependencies:
 
 npm install
